@@ -66,7 +66,7 @@ Don't start from scratch! Use these pre-built frameworks to save time:
 ---
 
 ## 📂 Specialized Guides
-* 📄 [GitHub Profile Guide](./Profile-Guide.md) - Learn how to build a world-class personal profile that stands out to recruiters.
+* 👤 [GitHub Profile Guide](./Profile-Guide.md) - Learn how to build a world-class personal profile.
 * 🛠️ [Design Assets](./assets/) - Curated banners and icons (Coming Soon).
 
 ---
