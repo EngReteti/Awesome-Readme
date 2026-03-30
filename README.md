@@ -55,3 +55,19 @@ Have a resource or a template that changed your life?
 3. **Push** to the Branch.
 4. **Open a Pull Request**.
 
+---
+
+## 📂 Available Templates
+Don't start from scratch! Use these pre-built frameworks to save time:
+* 📄 [Standard Project Template](./templates/Standard-Template.md) - Best for Apps, Portfolio projects, and Backend systems.
+* 📄 [Lite Script Template](./templates/Lite-Template.md) - Best for small Python scripts or CLI tools.
+* 📄 [Academic/Unit Template](./templates/Academic-Template.md) - Perfect for university assignments and lab work.
+
+---
+
+## 📂 Specialized Guides
+* 📄 [GitHub Profile Guide](./Profile-Guide.md) - Learn how to build a world-class personal profile that stands out to recruiters.
+* 🛠️ [Design Assets](./assets/) - Curated banners and icons (Coming Soon).
+
+---
+
